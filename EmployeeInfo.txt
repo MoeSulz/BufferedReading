@@ -1,0 +1,4 @@
+10|John Camel|35.5|12.5
+20|Mister Whoops|30|14
+30|Moey Gooze|40|13.5
+40|Cameron Niveet|26.5|16
